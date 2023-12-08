@@ -1,0 +1,476 @@
+*{
+    margin: 0;
+}
+.header{
+    width:100%;
+    height:100px;
+    background-color:#ffffff;
+ }
+ .logo{
+    width: 500px;
+    height:222px;
+}
+
+.pic1{
+    width:110px;
+    height:50px;
+    margin-left:100px;
+    margin-top:26px;
+    margin-bottom:0;
+}
+.head{
+    font-weight:lighter;
+    color:black;
+    font-size:15px;
+    position: relative;
+    left:650px;
+    bottom: 32px;
+}
+.head1{
+    font-weight:lighter;
+    color:black;
+    font-size:15px;
+    position: relative;
+    left:761px;
+    bottom:50px;
+}
+.head2{
+    font-weight:lighter;
+    color:black;
+    font-size:15px; 
+    position: relative;
+    left:865px;
+    bottom:68px;
+}
+.head3{
+    font-weight:lighter;
+    color:black;
+    font-size:15px;
+    position: relative; 
+    left:969px;
+    bottom:86px;
+}
+.pic5{
+    width:13px;
+    height:12px;
+    position:relative;
+    left:734px;
+    bottom:106px;
+}
+.pic6{
+    width:13px;
+    height:12px;
+    position:relative;
+    left:826px;
+    bottom:106px;
+}
+.pic7{
+    width:13px;
+    height:12px;
+    position:relative;
+    left:911px;
+    bottom:106px;
+}
+.pic8{
+    width:13px;
+    height:12px;
+    position: relative;
+    left:1018px;
+    bottom:106px;
+}
+.box3{
+    background-color: #ffffff;
+    width:150px;
+    height:35px;
+    font-size:14px;
+    padding-right:60px;
+    padding-top:5px;
+    position:relative;
+    left:1098px;
+    bottom:136px;
+}
+.pic9{
+    width:25px;
+    height:25px;
+    color:black;
+    position:relative;
+    left:1049px;
+    bottom:133px;
+}
+.pic10{
+    width:30px;
+    height:30px;
+    position:relative;
+    left:1274px;
+    bottom:170px;
+}
+.pic11{
+    width:30px;
+    height:30px;
+    position:relative;
+    left:1283px;
+    bottom:170px;
+}
+.pic12{
+    width:30px;
+    height:30px;
+    position: relative;
+    left:1290px;
+    bottom:170px;
+}
+.pic2{
+    width:100%;
+    height:360px;
+    margin:0;
+}.container{
+    width:100%;
+    height:999px;
+    background-image: url("images/Artboard-1-copy\ \(1\).png");
+}
+.container-heading{
+    color:#ffffff;
+    font-family:"josefin sans" sans-serif ;
+    font-size:32px;
+    position: relative;
+    width:300px;
+    height: 200px;
+    left: 1050px;
+    top:370px;
+}
+.container2{
+    background-color:#fff;
+    width:100%;
+    height:900px;
+
+
+}
+.coffee1{
+    background-color: hsla(15,72%,11%,0.925);
+    width:100%;
+    height: 450px;
+}
+.white1{
+    width:100%;
+    height:450px;
+}
+
+
+.chocochip{
+    position: relative;
+    top: 350px;
+    left:350px;
+    width:51%;
+    height:350px;
+}
+.sub-heading{
+    color:#ffffff;
+    font-family: "Josefin Sans", Sans-serif;
+    font-size:25px;
+    font-weight:200px;
+    position:relative;
+    bottom:100px;
+    left:650px;
+    
+}
+.box{
+    border-color:#fff;
+    height:45px;
+    background-color:transparent;
+    width:140px;
+    position :relative;
+    bottom:105px;
+    left:653px;
+    color: #ffffff;
+    font-weight:50px;
+}
+.container3{
+    background-color:#032a47;
+    width:100%;
+    height:780px;
+
+}
+.text2{
+    color:#ffffff;
+    font-family:"Josefin Sans", Sans-serif;
+    font-size:30px;
+    position:relative;
+    top:80px;
+    left:100px;
+}
+.paragraph{
+    color:#ffffff;
+    font-family: "Josefin Sans", Sans-serif;
+    position:relative;
+    top:100px;
+    left:100px;
+}
+.box1{
+    border-color: #ffffff;
+    height: 45px;
+    background-color:transparent;
+    width:140px;
+    position: relative;
+    top:130px;
+    left:100px;
+    color:#fff;
+    font-weight:40px;
+    font-size:16px;
+}
+.collage{
+    width:550px;
+    height:350px;
+    position:relative;
+    bottom:100px;
+    left:800px;
+}
+.text11{
+    color:#ffffff;
+    size: 25px;  
+    font-family: "Josefin Sans", Sans-serif;
+    font-weight:3px;
+    position:relative;
+    left:200px;
+    bottom:110px;
+}
+.text13{
+    color:#ffffff;
+    size:25px;
+    font-family: "Josefin Sans", Sans-serif;
+    font-weight:3px;
+    position: relative;
+    left:680px;
+    bottom:154px;
+    
+}
+.text12{
+    color:#ffffff;
+    size:25px; 
+    font-family: "Josefin Sans", Sans-serif;
+    font-weight:3px;
+    position: relative;
+    left:400px;
+    bottom:132px;
+}
+.text14{
+    color:#ffffff;
+    size:25px;
+    font-family: "Josefin Sans", Sans-serif;
+    font-weight:3px;
+    position: relative;
+    left:1060px;
+    bottom:176px;
+}
+.container4{
+    background-color:rgb(223,178,37,100);
+    width:100%;
+    height:700px;
+    margin-top:-90px ;
+}
+.text3{
+    color:#ffffff; 
+    font-family:"Josefin Sans", Sans-serif;
+    font-size:30px;
+    position:relative;
+    top:70px;
+    left:100px;
+}
+.paragraph1{
+    color:#fff;
+    font-family:"Josefin Sans", Sans-serif;
+    position:relative;
+    top:90px;
+    left:100px;
+}
+.pic3{
+    width:550px;
+    height:350px;
+    position:relative;
+    bottom:112px;
+    left:800px;
+}
+.box2{
+    border-color: #ffffff;
+    height: 45px;
+    background-color:transparent;
+    width:140px;
+    position: relative;
+    top:130px;
+    left:100px;
+    color:#fff;
+    font-weight:40px;
+    font-size:16px;
+}
+.text15{
+    color:#ffffff; 
+    font-family:"Josefin Sans", Sans-serif;
+    font-size:20px;
+    position:relative;
+    bottom:96px;
+    left:120px;
+}
+.text16{
+    color:#ffffff; 
+    font-family:"Josefin Sans", Sans-serif;
+    font-size:20px;
+    position:relative;
+    bottom:120px;
+    left:320px;
+}
+.text17{
+    color:#ffffff; 
+    font-family:"Josefin Sans", Sans-serif;
+    font-size:20px;
+    position:relative;
+    bottom:144px;
+    left:510px;
+}
+.text18{
+    color:#ffffff; 
+    font-family:"Josefin Sans", Sans-serif;
+    font-size:20px;
+    position:relative;
+    bottom:168px;
+    left:800px;
+}
+.text19{
+    color:#ffffff; 
+    font-family:"Josefin Sans", Sans-serif;
+    font-size:20px;
+    position:relative;
+    bottom:194px;
+    left:1010px;
+}
+.footer{
+    background-color:#212121;
+    width:100%;
+    height:550px;
+    margin-top:-120px;
+
+}
+.logo1{
+    width:650px;
+    height:280px;
+}
+.pic4{
+    width:110px;
+    height:50px;
+    position:relative;
+    top:70px;
+    left:0;
+}
+.paragraph2{ 
+    color:#fff;
+    font-family:"Josefin sans",sans-serif;
+    font-weight:lighter;
+    position:relative;
+    top:150px;
+    left:0px;
+}
+.heads{
+    color: #ffffff;
+    font-family:"josefin sans",sans-serif;
+    font-weight:bold;
+    font-size: large;
+    line-height:50px;
+}
+.secondhead{
+    color:#ffffff;
+    font-family:"josefin sans",sans-serif;
+    font-weight: lighter;
+    font-size:small;
+    padding-top:10px;
+}
+.footerone{
+    position:relative;
+    left:530px;
+    bottom:118px;
+}
+.footertwo{
+    position:relative;
+    left:680px;
+    bottom:346px;
+}
+.footerthree{
+    position:relative;
+    left:830px;
+    bottom:513px;
+}
+.footerfour{
+    position:relative;
+    left:970px;
+    bottom:692px;
+}
+.footer1{
+    width:80%;
+    height:70%;
+    margin-left:150px;
+    margin-right:200px;
+    border-bottom: 3px solid;
+    border-color: #6e6262;
+}
+.text4{
+    color:#6e6262;
+    position:relative;
+    bottom:530px;
+    left:25px;
+    line-height:32px;
+    font-family: "Josefin sans"sans-serif;
+    font-weight:50px;
+}
+.text5{
+    color:#6e6262;
+    position:relative;
+    bottom:530px;
+    left:25px;
+    font-family: "Josefin sans"sans-serif;
+    font-weight:lighter;
+}
+.text6{
+     color:#6e6262;
+     position:relative;
+     bottom:578px;
+     left:500px; 
+     font-family: "Josefin sans"sans-serif;
+     font-weight:50px;
+     line-height:32px;
+}
+.text7{
+    color:#6e6262; 
+    position:relative;
+    bottom:578px;
+    left:500px; 
+    font-family: "Josefin sans"sans-serif;
+    font-weight:50px;
+}
+.text8{
+    color:#6e6262; 
+    position:relative;
+    bottom:631px;
+    left:950px; 
+    font-family: "Josefin sans"sans-serif;
+    font-weight:50px;
+    line-height: 32px;
+}
+.text9{
+    color:#6e6262; 
+    position:relative;
+    bottom:630px;
+    left:950px; 
+    font-family: "Josefin sans"sans-serif;
+    font-weight:50px;
+}
+.finalfooter{
+    background-color: #EC1A3B;
+    width:100%;
+    height:44px;
+}
+.text10{
+    color:#ffffff;
+    font-size:19px;
+    font-weight:4px;
+    font-family:"Josefin sans"sans-serif;
+    position:relative;
+    left:600px;
+    top:8px;
+
+}
